@@ -42,7 +42,7 @@ sleep 30 && echo ' ____   ___  _   _ _____
 | |_| | |_| | |\  | |___
 |____/ \___/|_| \_|_____|'
 sudo ./apphub status && 
-sudo ./apps/gaganode/gaganode config set --token=$TOKEN &&
+sudo ./apps/gaganode/gaganode config set --token=dhljworgcghoudjl6f2132e015296f50 &&
 sudo ./apphub restart &&
 sudo ./apps/gaganode/gaganode log
 fi
